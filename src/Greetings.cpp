@@ -6,7 +6,7 @@ using namespace std;
 int main(int argc, char *argv[])
 {
 	/// on testing branch
-	cout << "Greetings!" << endl;
+	cout << "Greetings testing branch!" << endl;
 	return 0;
 }
 
